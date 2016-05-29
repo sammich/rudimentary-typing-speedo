@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+}
+p {
+    margin: 0; white-space: pre;
+}
+
+body, textarea {
+    font-size: 25px;
+    font-family: monospace;
+}
+
+textarea {
+    width: 100%; box-sizing: border-box;
+    border: 1px solid #aaa;
+    border-width: 1px 0;
+    margin-top: 1em;
+    outline: 0;
+    padding: 10px;
+}
+
+#keystyped { font-size: 18px; }
